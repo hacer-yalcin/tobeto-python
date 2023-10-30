@@ -1,0 +1,10 @@
+sayi=int(input("bir sayı giriniz"))
+
+ters = sayi(::-1)
+
+if (ters ==sayi: )
+
+print("yazdıgınız sayi palindron sayıdır. ")
+
+else:
+ print("Yazdigınız sayi palindron sayi değildir.")

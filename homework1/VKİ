@@ -1,0 +1,4 @@
+boy = int(input("Lütfen boyunu giriniz: "))
+agirlik = int(input("Lütfen agirliginizi giriniz: "))
+vki = (agirlik/(boy*boy))
+print(vki)

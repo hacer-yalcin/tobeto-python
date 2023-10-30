@@ -5,3 +5,8 @@ print("Merhaba Tobeto Test Ekibi")
 text = "Merhaba"
 print(text)
 
+number = 10
+print(number + number)
+
+
+
